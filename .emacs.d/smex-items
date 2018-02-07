@@ -1,0 +1,19 @@
+
+;; ----- smex-history -----
+(
+ xterm-mouse-mode
+ show-paren-mode
+ package-list-packages
+ cd
+ 5x5
+ arp
+ dbx
+)
+
+;; ----- smex-data -----
+(
+ (cd . 1)
+ (package-list-packages . 1)
+ (show-paren-mode . 1)
+ (xterm-mouse-mode . 4)
+)

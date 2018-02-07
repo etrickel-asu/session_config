@@ -1,0 +1,26 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/etrickel/.emacs.d/" . "themes/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/etrickel/.emacs.d/themes/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "monokai-theme.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/etrickel/.emacs.d/themes/" (22854 37606 448 514000) "./" "../" "monokai-theme.el" ".gitkeep")
+
+ ("/home/etrickel/.emacs.d/" (22854 40092 692376 311000) "init.el" "./" "#init.el#" "../" "smex-items" "themes/" "elpa/" ".#init.el" "auto-save-list/" "ac-comphist.dat")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
